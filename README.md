@@ -9,7 +9,7 @@ A collection of tech internships, new grads, research opportunities and more.
 ## Internship Positions
 |company|title|location|link|
 |---|---|---|---|
-|amazon web services (aws)|2025 software dev engineer intern - germany|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4089381235|
+|amazon web services (aws)|2025 software dev engineer intern - germany|aachen, north rhine-westphalia, germany|https://www.linkedin.com/jobs/view/4089381235| Done
 |amazon web services (aws)|2025 software dev engineer intern - germany|berlin, berlin, germany|https://www.linkedin.com/jobs/view/4037016526|
 |amazon web services (aws)|2025 software dev engineer intern - germany|munich, bavaria, germany|https://www.linkedin.com/jobs/view/4037018439|
 |amazon web services (aws)|2025 software development engineer intern - embedded development (m/w/d)|berlin, germany|https://www.linkedin.com/jobs/view/4077931587|
