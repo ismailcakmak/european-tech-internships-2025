@@ -1,6 +1,6 @@
-|company|title|location|link|
-|---|---|---|---|
-|abb|full stack software engineer – internship|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3840646724|
+|company|title|location|link|Status|
+|---|---|---|---|---|
+|abb|full stack software engineer – internship|cracow, małopolskie, poland|https://www.linkedin.com/jobs/view/3840646724|Applied|
 |abb|full stack software engineer – internship|katowice, śląskie, poland|https://www.linkedin.com/jobs/view/3820982829|
 |abb|internship (m/f/d) software engineer germany|ladenburg, baden-württemberg, germany|https://www.linkedin.com/jobs/view/3608528845|
 |abb|internship / msc thesis in industrial software systems (80-100%)|baden, aargau, switzerland|https://www.linkedin.com/jobs/view/3750024699|
